@@ -1,12 +1,12 @@
 {
-    "name": "ivar/easy-51tracking",
+    "name": "ivar/easy-51tracking-clone",
     "description": "the easiest way to operate 51tracking",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "ivar",
-            "email": "625079860@qq.com"
+            "name": "elmersky",
+            "email": "lch284231238@gmail.com"
         }
     ],
     "require": {

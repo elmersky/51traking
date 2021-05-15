@@ -6,6 +6,7 @@
 
 ## 特点
 
+1. 克隆[ivar66/easy-51tracking](https://github.com/ivar66/easy-51tracking),composer下载不了所以自己克隆了一份上传packagist 
 1. 支持目前51tracking的api接口
 1. 简单配置即可灵活增减服务商
 1. 统一的返回值格式，便于日志与监控
@@ -22,7 +23,7 @@
 ## 安装
 
 ```shell
-$ composer require ivar/easy-51tracking
+$ composer require elmersky/easy-51tracking
 ```
 
 ## 使用
