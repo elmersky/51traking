@@ -23,7 +23,7 @@
 ## 安装
 
 ```shell
-$ composer require ivar/easy-51tracking-clone
+$ composer require elmersky/ivar-easy-51tracking
 ```
 
 ## 使用
